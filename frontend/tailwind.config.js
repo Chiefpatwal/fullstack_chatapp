@@ -12,14 +12,7 @@ export default {
   plugins: [],
   daisyui:{
     themes:[
-      "light",
-      "dark",
-      "cupcake",
-      "bumblebee",
-      "emerald",
-      "corporate",
-      "retro",
-      "cyberpunk", 
+      
     ]
   }
 };
