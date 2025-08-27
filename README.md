@@ -8,7 +8,7 @@ Supports authentication, live messaging, and responsive UI.
 ---
 
 ## 🚀 Live Demo
-👉 [Chat App is Live Now!](https://fullstack-chatapp-51y4.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://fullstack-chatapp-51y4.onrender.com)
 
 ---
 
