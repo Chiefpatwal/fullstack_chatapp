@@ -1,6 +1,3 @@
-Got it 👍 I’ll make you a clean **README.md** that explains how to run both backend and frontend locally. You can adjust project name/description as you like.
-
-Here’s a ready-to-use version:
 
 ```markdown
 # Full Stack Chat App  
